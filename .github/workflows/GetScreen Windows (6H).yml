@@ -15,5 +15,5 @@ jobs:
          cmd /c down.bat
 
       - name: Time Counter
-        run: python time.py
+        run: python time :py
  sys.exit(app.exec_())
